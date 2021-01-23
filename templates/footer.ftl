@@ -1,3 +1,4 @@
+  </div> <!-- /Main -->
   <!-- Copyright -->
   <div id="copyright">
     <ul>
