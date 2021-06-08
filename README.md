@@ -8,7 +8,7 @@ For installing on your local. Download JBake and have it on the path. Run follow
 
 For baking templates to HTML files. Run the following command.
 
-`jbake src/jbake output`
+`jbake src output`
 
 Now, changes would be live and served on your localhost after
 

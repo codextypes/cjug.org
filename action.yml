@@ -1,0 +1,6 @@
+# action.yml
+name: 'CJUG'
+description: 'Checks if the CJUG site build is valid'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
